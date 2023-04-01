@@ -1,0 +1,214 @@
+
+.delivery{
+    background: #1B1A1A;
+    padding-bottom: 203px;
+}
+
+.delivery h1{
+    width: 100%;
+    height: 138px;
+    background: #373737;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.delivery .text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.delivery .text .left{
+    margin-top: 51px;
+    padding-left: 105px;
+}
+
+.delivery .text .left h2{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;   
+}
+
+.delivery .text .left .number1{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .left .number1 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #36FF24 0%, rgba(54, 255, 36, 0) 100%);
+    border-radius: 50%;
+}
+
+.delivery .text .left .number1 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.delivery .text .left .number2{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .left .number2 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #605bbb 0%, rgba(152, 36, 241, 0.064) 100%);    border-radius: 50%;
+}
+
+.delivery .text .left .number2 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.delivery .text .left .number3{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .left .number3 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #938e8e 0%, rgba(71, 68, 68, 0.0593751) 94.58%, rgba(129, 83, 83, 0.0137021) 99.99%, rgba(70, 67, 67, 0) 100%);    border-radius: 50%;
+}
+
+.delivery .text .left .number3 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+
+
+
+
+.delivery .text .right{
+    margin-top: 51px;
+    /* padding-left: 105px; */
+}
+.delivery .text .right h2{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+    color: #FFFFFF;   
+}
+.delivery .text .right .number1{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .right .number1 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #FF11D9 0%, rgba(255, 40, 246, 0) 100%);}
+
+.delivery .text .right .number1 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.delivery .text .right .number2{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .right .number2 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #EBFF04 0%, rgba(255, 230, 0, 0) 100%);}
+
+.delivery .text .right .number2 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.delivery .text .right .number3{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.delivery .text .right .number3 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+    background: radial-gradient(50% 50% at 50% 50%, #41CFFC 0%, rgba(0, 255, 224, 0) 100%);}
+
+.delivery .text .right .number3 p{
+    width: 450px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

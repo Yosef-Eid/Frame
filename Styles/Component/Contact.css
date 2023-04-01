@@ -1,0 +1,98 @@
+
+.contact{
+    background: #1B1A1A;
+    padding-bottom: 100px;
+
+}
+
+.contact h1{
+    width: 100%;
+    height: 138px;
+    background: #373737;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact .text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact .text .hom{
+    position: relative; right: 395px;
+    scale: .9;
+}
+
+.contact .text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contact .text .left{
+    margin-top: 64px;
+    padding-left: 105px;
+}
+
+.contact .text .left h2{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 54px;
+    color: #FFFFFF;
+    
+}
+
+.contact .text .left p{
+    width: 900px;
+    font-weight: 500;
+    font-size: 43px;
+    line-height: 52px;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    
+}
+
+.contact .text .left div{
+    width: 421px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 222px;
+    cursor: pointer;
+    /* background-color: aquamarine; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

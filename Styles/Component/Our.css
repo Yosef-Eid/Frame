@@ -1,0 +1,118 @@
+.our{
+    background: #1B1A1A;
+}
+
+.our .text{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 143px;
+}
+.our .text img{
+   position: relative; right: 20px;
+}
+
+.our h1{
+    width: 100%;
+    height: 138px;
+    background: #373737;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.our .text .left{
+    padding-left: 58px;
+    margin-top: 76px;
+}
+
+.our .text .left h2{
+    width: 710px;
+    height: 132px;
+    text-align: center;
+    border: 2px solid #41CFFC;
+    border-radius: 55px;   
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 58px;
+    color: #FFFFFF;
+    padding: 10px;
+}
+
+.our .text .left .number1{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.our .text .left .number1 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+background: radial-gradient(50% 50% at 50% 50%, #41CFFC 0%, rgba(0, 255, 224, 0) 100%);    border-radius: 50%;
+}
+
+.our .text .left .number1 p{
+    width: 571px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.our .text .left .number2{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.our .text .left .number2 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+background: radial-gradient(50% 50% at 50% 50%, #41CFFC 0%, rgba(0, 255, 224, 0) 100%);}
+
+.our .text .left .number2 p{
+    width: 571px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
+
+.our .text .left .number3{
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.our .text .left .number3 h1{
+    width: 118px;
+    height: 116px;
+    font-weight: 600;
+    font-size: 96px;
+    line-height: 115px;
+    color: #FFFFFF;
+background: radial-gradient(50% 50% at 50% 50%, #41CFFC 0%, rgba(0, 255, 224, 0) 100%);}
+
+.our .text .left .number3 p{
+    width: 571px;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    color: #FFFFFF;
+    margin-left: 22px;
+}
